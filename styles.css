@@ -1,0 +1,36 @@
+button{
+    font-size: 30px;
+    background-image:linear-gradient(to top,rgb(15, 255, 47),rgb(214, 247, 218));
+    border-radius: 20px;
+    margin-bottom:5px;
+}
+h1{
+    color: blue;
+    margin-bottom:5px;
+}
+div{
+    text-align: center;
+}
+a:link{
+    color: rgb(240, 28, 28);
+    text-decoration: none;
+}
+  
+a:visited {
+    color: rgb(240, 28, 28);
+    text-decoration: none;
+}
+  
+a:hover {
+    color: rgb(243, 55, 196);
+    text-decoration: none;
+}
+  
+a:active{
+    text-decoration: none;
+}
+#s1{
+    background-image:linear-gradient(to top,rgb(15, 255, 47),rgb(214, 247, 218));
+    border-radius: 20px;
+    margin-top: 5px;
+}
